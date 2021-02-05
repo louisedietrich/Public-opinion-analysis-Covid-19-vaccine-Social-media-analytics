@@ -4,7 +4,7 @@
 The aim of this project is to analyze the global sentiment of the public towards the Covid-19 vaccine through the examination of tweets.
 We scrapped 207719 English-language tweets containing the word ‘vaccine’, sent between the 24th and 25th of January 2021. 
 
-![](Images/activity.JPG
+![](Images/activity.JPG)
 
 ## Summary of the project 
 
