@@ -19,18 +19,18 @@ After tokenizing the tweets, removing the punctuation & stop words, we were able
 We observed the sentiment score variation over time, and noticed a small fluctuation around 0 throughout the studied period.
 The score was at its lowest at nightime. 
 
-![](sentiment.JPG)
+![](Images/sentiment.JPG)
 
 
 We also compared sentiment scores among countries where the tweets originated from.
 
-![](country.JPG)
+![](Images/country.JPG)
 
 Western countries have a rather positive polarity score, while India and South Africa seem to have a negative sentiment toward the vaccine. 
 
 ### Network of Words
 
-![](network.JPG)
+![](Images/network.JPG)
 
 One thing we can notice in those words that are often combined together is the pairing of "deliver" and "struggling". It might represent the concerns of the public with the distribution of the vaccine. 
 
@@ -38,7 +38,7 @@ One thing we can notice in those words that are often combined together is the p
 
 Using the nrc dictionnary, we were able to determine the sentiments emerging from the tweets. 
 
-![](emotions.JPG)
+![](Images/emotions.JPG)
 
 
 
